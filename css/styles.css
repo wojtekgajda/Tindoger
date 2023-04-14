@@ -1,0 +1,143 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+body h1, body h2, body h3, body h4, body h5 {
+  font-weight: 900;
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.navbar {
+  background-color: #ff4c68;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.title_header {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  color: white;
+  line-height: 1.5;
+  padding: 2rem 0;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.iphone_photo {
+  transform: rotate(25deg);
+  width: 27%;
+  position: absolute;
+  z-index: 1;
+  max-width: 275px;
+}
+
+.button_container button {
+  padding-top: 10px;
+}
+
+.title_section {
+  overflow: hidden;
+}
+
+.download_btn {
+  margin-right: 1rem;
+}
+
+.nav-item {
+  padding: 0 1rem;
+}
+
+#features {
+  padding: 5% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 2;
+}
+
+.features div {
+  text-align: center;
+  font-family: "Montserrat", sans-serif, "Bodoni 72 Oldstyle";
+  padding: 2rem;
+}
+.features i {
+  color: #ef8172;
+  margin: 0.5rem;
+}
+.features i:hover {
+  color: #ff4c68;
+}
+.features p {
+  font-weight: 400;
+  color: #8f8f8f;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+#testimonials h2 {
+  padding: 0 2rem;
+}
+#testimonials img {
+  width: 100px;
+  border-radius: 100%;
+  margin: 20px 20px 10px;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#press img {
+  width: 10%;
+  margin: 20px 20px 50px;
+}
+
+#testimonial_carousel button {
+  width: 6%;
+}
+
+#pricing {
+  text-align: center;
+  padding: 3% 6%;
+}
+
+.card-header {
+  background-color: #ff4c68;
+}
+
+.card-footer {
+  background-color: #ff4c68;
+}
+
+#cta div {
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff4c68;
+}
+#cta div h3 {
+  color: white;
+  font-size: 2.5rem;
+}
+
+#footer .brands-container i {
+  color: #8f8f8f;
+  font-size: 1rem;
+  margin: 5px;
+}
+#footer .brands-container i:hover {
+  cursor: pointer;
+  color: #ef8172;
+}
+
+/*# sourceMappingURL=styles.css.map */
