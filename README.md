@@ -1,0 +1,2 @@
+# Tindoger
+RWD, SCSS, Bootstrap
